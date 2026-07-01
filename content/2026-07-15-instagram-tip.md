@@ -4,7 +4,7 @@ platform: instagram
 
 scheduled: 2026-07-15
 
-status: draft
+status: approved
 
 ---
 
